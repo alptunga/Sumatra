@@ -14,6 +14,4 @@ How to use it?                               :
                                               -And SERVICES with SERVICENAME (No kama, no nothing. One per line)
                                               
 
-Can you use it?
-                                              :-Yeah, you can use it, edit it, comment it. Let me know your ideas and advices. Though you can't SELL it. 
                                               
